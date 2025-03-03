@@ -13,7 +13,12 @@
 ![image](https://github.com/user-attachments/assets/912824f8-5fcd-4d9b-a6f9-208332175130)
 
 ## 4 Write Dockerfile for the python file `ml-model.py`. Create image and push to DockerHub `Reg-Number-ml-model(Example: 1214214-ml-model)`
+![image](https://github.com/user-attachments/assets/b7b61686-a3f4-4a9b-a7e4-a786fb98afec)
+![image](https://github.com/user-attachments/assets/4d8c9800-8ab4-48dc-a810-355dc3216cf8)
+
+
 ## 4 Add your DockerHub username
+jayasurya014
 ## 5 Add your DockerHub Repo screenshot with 2 images
 ![image](https://github.com/user-attachments/assets/5a93b38f-bbcd-422b-a888-c0bb969d9f18)
 
